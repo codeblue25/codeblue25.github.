@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Hello world !
+title: 엉금엉금 개발공부일지
 subtitle: "Study regulary"
 email: chois1031@gmail.com
 name: Choi Sun Young
