@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Hello world !
-subtitle: "개발 공부 일지"
+subtitle: "Study regulary"
 email: chois1031@gmail.com
 name: Choi Sun Young
 # description: >
@@ -20,8 +20,8 @@ name: Choi Sun Young
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://codeblue25.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/header_DY.jpg"
+logo: "/assets/logo1.png"
 
 # Build settings
 markdown: kramdown
