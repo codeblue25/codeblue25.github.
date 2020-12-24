@@ -6,6 +6,6 @@ author: codeblue25
 categories: TIL
 ---
 
-<span style = "font-style:italic; font-weight:bold;">"Study regulary and don't worry if it takes time"</span><br/ >
+<span style = "font-style:italic; font-weight:bold;">"Study regulary and don't worry if it takes time"</span>
 
 매일 공부하고 하루를 기록하는 공간으로 사용할 것이다.
