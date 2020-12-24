@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Today I learn 기록의 시작"
-date:   2020-12-24T14:25:52-05:00
+date:   2020-12-24T09:25:52-05:00
 author: codeblue25
 categories: TIL
 ---
